@@ -12,7 +12,7 @@ let songItemsArray = Array.from(songItems);
 const currentTimeDisplay = document.getElementById('currentTimeDisplay');
 
 let songs=[
-    {songName:"Duniya song " , filePath:"songs/Duniya - Luka Chuppi_128-(DJMaza).mp3",coverPath:"cover photos/cover photo.jpg"},
+    {songName:"Duniya song " , filePath:"songs/Duniya - Luka Chuppi_128-(DJMaza).mp3",coverPath:"cover photos/duniya song.jpg"},
     {songName:"Har Har Shambhu " , filePath:"songs/Har Har Shambhu - 64Kbps-(Mr-Jat.in).mp3",coverPath:"cover photos/shambhu.jpg"},
     {songName:"Let me love you " , filePath:"songs/Let me love you Mr Raja Dhillon Justin bieber.mp3",coverPath:"cover photos/love me like you do.jpg"},
     {songName:"Maan Meri Jaan" , filePath:"songs/Maan Meri Jaan(PagalWorld.com.se).mp3",coverPath:"cover photos/maan meri jaan.jpg"},
